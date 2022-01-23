@@ -1,3 +1,3 @@
 # hello-world
-Learning Github
+Learning GitHub
 & a bit about coding!
